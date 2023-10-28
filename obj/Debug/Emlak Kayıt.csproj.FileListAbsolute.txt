@@ -1,0 +1,12 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\bin\Debug\Emlak Kayıt.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\bin\Debug\Emlak Kayıt.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\bin\Debug\Emlak Kayıt.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak Kayıt.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak_Kayıt.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak_Kayıt.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak Kayıt.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak Kayıt.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak Kayıt.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Emlak Kayıt\Emlak Kayıt\obj\Debug\Emlak_Kayıt.Form2.resources
